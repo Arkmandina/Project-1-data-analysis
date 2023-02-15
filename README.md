@@ -39,7 +39,7 @@ Future scope:
 Using a larger time frame and more states in the nation would make our analysis more expansive where we could gather most and least successful states and or group them by restaurant types by region. This could give us a larger/clearer picture on how the pandemic truly affected the restaurant industry in the United States.
 
 
-
+https://docs.google.com/presentation/d/17TbKNfNuSEVa2whSoBVHk1NmhrUMtyJi/edit#slide=id.p1
 
 
 
