@@ -1,3 +1,5 @@
+
+
 Restaurant Data Analysis 
 Pre covid (2019) to Post covid (2020)
 Ohio v Texas 
@@ -5,7 +7,7 @@ Ohio v Texas
 
 Why choose this data?
 
-The Covid-19 pandemic greatly hindered life as we know it, specifically the restaurant industry and how it affects our lives. We chose the Unites States not only because our group resides here, but also because of the diversity state by state in how it dealt with the pandemic. We wanted to represent the differences in two vastly different states in how their decisions affected restaurant experience and expectations. 
+The Covid-19 pandemic greatly hindered life as we know it, specifically the restaurant industry and how it affects our lives. We chose the United States not only because our group resides here, but also because of the diversity state by state in how it dealt with the pandemic. We wanted to represent the differences in two vastly different states in how their decisions affected restaurant experience and expectations. 
 
 Furthermore, why Ohio and Texas?
 
